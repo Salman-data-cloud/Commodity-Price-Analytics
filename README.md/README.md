@@ -6,7 +6,7 @@ Real-time monitoring of 14 critical commodities for food security, inflation con
 - Monthly + Annual price data (1960–2025)
 - Categorized: Energy, Food, Industry, Fertilizer
 - PostgreSQL database: `final_bd_commodities`
-- Ready for Power BI + Prophet forecasting
+- Ready for Visualization + Prophet forecasting
 
 ## Setup
 ```bash
