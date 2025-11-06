@@ -29,10 +29,10 @@ BANGLADESH COMMODITY INTELLIGENCE SYSTEM — 2025
 ### 📊 Dashboard Preview
 
 #### Page 1
-![Dashboard Page 1](images/Metabase_Dashboard_Page 1.png)
+![Dashboard Page 1](images/Metabase_Dashboard_Page_1.png)
 
 #### Page 2
-![Dashboard Page 2](images/Metabase_Dashboard_Page 2.png)
+![Dashboard Page 2](images/Metabase_Dashboard_Page_2.png)
 
 ### 🔗 Download Full Dashboard PDF
 [📄 View or Download Full Dashboard (PDF)](Metabase/Metabase%20-%20BANGLADESH%20COMMODITY%20INTELLIGENCE%20SYSTEM%20—%202025.pdf)
