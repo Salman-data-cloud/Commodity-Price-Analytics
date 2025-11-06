@@ -26,8 +26,16 @@ BANGLADESH COMMODITY INTELLIGENCE SYSTEM — 2025
 - Price Shock Alerts (>15% MoM)
 - Model Accuracy (MAPE)
 
-## Dashboard
-![Dashboard](Metabase/Metabase - BANGLADESH COMMODITY INTELLIGENCE SYSTEM — 2025.pdf)
+### 📊 Dashboard Preview
+
+#### Page 1
+![Dashboard Page 1](images/Metabase_Dashboard_Page1.png)
+
+#### Page 2
+![Dashboard Page 2](images/Metabase_Dashboard_Page2.png)
+
+### 🔗 Download Full Dashboard PDF
+[📄 View or Download Full Dashboard (PDF)](Metabase/Metabase%20-%20BANGLADESH%20COMMODITY%20INTELLIGENCE%20SYSTEM%20—%202025.pdf)
 
 ## Tech Stack
 - **Database**: PostgreSQL
