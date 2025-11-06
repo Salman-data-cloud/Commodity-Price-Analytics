@@ -27,7 +27,7 @@ BANGLADESH COMMODITY INTELLIGENCE SYSTEM — 2025
 - Model Accuracy (MAPE)
 
 ## Dashboard
-![Dashboard](Metabase/BANGLADESH_COMMODITY_INTELLIGENCE_SYSTEM_2025.pdf)
+![Dashboard](Metabase/Metabase - BANGLADESH COMMODITY INTELLIGENCE SYSTEM — 2025.pdf)
 
 ## Tech Stack
 - **Database**: PostgreSQL
